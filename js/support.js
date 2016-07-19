@@ -3,8 +3,7 @@ var swidth=window.innerWidth;
 var boxl=swidth*0.92;
 var celll=swidth*0.18;
 var spl=swidth*0.04;
-alert(window.innerWidth);
-alert(document.documentElement.clientWidth);
+
 function setTop(i,j){
 	return spl+i*(spl+celll);
 }
