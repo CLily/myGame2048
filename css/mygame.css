@@ -6,13 +6,13 @@ body{
 	font-family: arial;
 }
 .container{
-	margin: 10px auto;
+	margin: 0 auto;
 	text-align: center;
 }
 .container h2{
-	line-height: 100px;
+	line-height: 80px;
 	font-weight: bold;
-	font-size: 40px;
+	font-size: 30px;
 }
 .container .btn{
 	padding:10px 16px;
@@ -23,10 +23,10 @@ body{
 }
 .container p{
 	font-size: 25px;
-	line-height: 48px;
+	line-height: 60px;
 }
 #gamebox{
-	margin: 20px auto;
+	margin: 10px auto;
 	width: 500px;
 	height: 500px;
 	border-radius: 6px;
