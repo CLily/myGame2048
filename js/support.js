@@ -1,4 +1,5 @@
-var swidth=window.screen.availWidth;
+//var swidth=window.screen.availWidth;
+var swidth=window.screen.width;
 var boxl=swidth*0.92;
 var celll=swidth*0.18;
 var spl=swidth*0.04;
